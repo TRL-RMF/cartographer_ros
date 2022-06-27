@@ -16,6 +16,8 @@
 Cartographer ROS Integration
 ============================
 
+command to build: catkin_make_isolated --install --use-ninja 
+
 |build| |docs| |license|
 
 Purpose
